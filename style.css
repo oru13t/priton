@@ -7,14 +7,14 @@ body {
 .right_field {
     width:600px;
 }
-#jopa {
+.jopa {
     background-color:white;
     border: 2px solid #e7e8ec;
     border-radius: 5px;
     height: 550px;
     padding: 0px;
 }
-button {
+.leftbutton {
     width: 100%;
     margin: 1px;
     text-align:left;
@@ -23,11 +23,11 @@ button {
     padding: 7px;
     color: #2a5885;
 }
-button:hover {
+.leftbutton:hover {
     background-color: #d3d9de;
     border-radius: 3px;
 }
-#Header {
+.Header {
     background-color: #4a76a8;
     color: white;
     font-family: "TT Commons Medium";
@@ -36,14 +36,14 @@ button:hover {
     padding: 7px;
     margin: -8px;
 }
-#sign {
+.sign {
     color: #a3aaa5;
     text-align: center;
     padding: 5px;
 }
-#tb {
+.tb {
     margin: 15px;
 }
-#rf {
+.rf {
     padding: 10px;
 }
